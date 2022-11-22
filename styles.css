@@ -1,0 +1,56 @@
+#top{
+    height: 500px;
+    width: 1190px;
+    background-color: rgb(107, 125, 175);
+    box-shadow: 10px black;
+    z-index: 1;
+    position: relative;
+    left: 200px;
+    border-radius:2em ;
+    top: -100px;
+    box-shadow: 0px 5px  2px gray;
+
+}
+#tags{
+    font-size: x-small;
+}
+.photo{
+    position: relative;
+    left: 125px;
+    top: 60px;
+    height: 250px;
+
+    border-radius: 2em;
+    z-index: 2;
+    
+}
+body{
+background-image: url("download.jpeg");
+background-size: 100%;
+}
+p{
+    color: antiquewhite;
+
+}
+h1{
+    font-size: xxx-large;
+}
+#unwanted{
+    color  : rgb(107, 125, 175);
+}
+#bottomdiv{
+    padding: 20px;
+}
+#contactbar{
+    border-radius: 2em;
+    background-color: rgb(107, 125, 175);
+    position: relative;
+    left: 200px;
+    bottom: 50px;
+    height: 50px;
+    width:1190px;
+}
+#info{
+position: relative;
+bottom: 20px;
+}
